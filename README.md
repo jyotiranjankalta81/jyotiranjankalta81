@@ -5,7 +5,7 @@
 * I am Jyoti Ranjan Kalta, a programming enthusiast.
 
 ### Some things I like to do
-* Hack Reactor ~~student~~ alumni. Full-stack developer with passion for building applications, and learning new languages.
+* Hack Reactor alumni. Full-stack developer with passion for building applications, and learning new languages.
 * Competitive Programming, I am an active participant in Codeshef, Codeforces and Atcoder. My handler is `kalta` in all these sites.
 * Web development using MERN stack, and sometimes Django.
 * 🔭: Currently looking for new opportunities. 
